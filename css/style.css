@@ -1,0 +1,17 @@
+.hero{
+    background-image: url(/images/yosh-ginsu-e4usjv5lmhE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 200px;
+}
+.header{
+    text-align: center;
+    color: red;
+
+}
+.box {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 300px;
+}
